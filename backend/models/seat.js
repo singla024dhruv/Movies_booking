@@ -1,6 +1,6 @@
 const mongoose=require("mongoose");
 
-const seatSchema=new mongoose({
+const seatSchema=new mongoose.Schema({
     seat_number:{
         type:Number,
         required:true,
