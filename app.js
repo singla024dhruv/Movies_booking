@@ -60,7 +60,7 @@ app.get('/api/seats/:id', async (req, res) => {
 app.post('/api/bookings', async (req, res) => {
   const session = await mongoose.startSession();
   session.startTransaction();
-  console.log("Rohan");
+ 
   console.log(req.body);
   try {
     const { seatId, name } = req.body;
