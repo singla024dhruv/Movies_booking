@@ -1,0 +1,252 @@
+[
+  { "seat_number": 1, "status": "available", "category": "VIP", "price": 500 },
+  { "seat_number": 2, "status": "booked", "category": "VIP", "price": 500 },
+  { "seat_number": 3, "status": "available", "category": "VIP", "price": 500 },
+  { "seat_number": 4, "status": "booked", "category": "VIP", "price": 500 },
+  { "seat_number": 5, "status": "available", "category": "VIP", "price": 500 },
+  { "seat_number": 6, "status": "available", "category": "VIP", "price": 500 },
+  { "seat_number": 7, "status": "booked", "category": "VIP", "price": 500 },
+  { "seat_number": 8, "status": "available", "category": "VIP", "price": 500 },
+  { "seat_number": 9, "status": "booked", "category": "VIP", "price": 500 },
+  { "seat_number": 10, "status": "available", "category": "VIP", "price": 500 },
+  {
+    "seat_number": 11,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 12,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 13,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 14,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 15,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 16,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 17,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 18,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 19,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 20,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 21,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 22,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 23,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 24,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 25,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 26,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 27,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 28,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 29,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 30,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 31,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 32,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 33,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 34,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 35,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 36,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 37,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 38,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 39,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 40,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 41,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 42,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 43,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 44,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 45,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 46,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 47,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 48,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 49,
+    "status": "booked",
+    "category": "Regular",
+    "price": 200
+  },
+  {
+    "seat_number": 50,
+    "status": "available",
+    "category": "Regular",
+    "price": 200
+  }
+]

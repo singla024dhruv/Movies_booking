@@ -4,7 +4,8 @@ const seatSchema=new mongoose.Schema({
     seat_number:{
         type:Number,
         required:true,
-        unique:true
+        unique: true,
+        
     },
     status:{
         type:String,
